@@ -23,6 +23,7 @@ Please push your code often and use descriptive commit messages, this helps you 
 In this project, you will **write unit tests** for an existing React application that controls a gate and shows two LEDs that portrait the status of the gate.
 
 The requirements are listed under the _Minimum Viable Product_ section below.
+x
 
 ## Project Set Up
 
